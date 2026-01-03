@@ -1,0 +1,11 @@
+1.Descargar el Image_Classificator.ipynb y el dataset del GitHub proporcionado "https://github.com/Petazeta21/Classificador-Imagenes"
+
+2.Abrir el Image_Classificator.ipynb con el Google Colab
+
+3.Ir al apartado de Archivos en la parte del lateral izquierdo y pulsar sobre la carpeta que aparece como "..".
+
+4.Dentro buscamos la carpeta que se llama "content" y creamos 2 carpetas, "Personas" y "Comidas", donde cargaremos las fotos.
+
+5.Para cargar las imágenes encima de la carpeta "Personas" o "Comidas" seleccionamos subir, buscamos la carpeta con las imágenes que vamos a subir y con "ctrl + e" se selecciona todo los archivos de la carpeta. 
+
+Nota: el cuaderno proporcionado contiene 3 versiones del código, que muestra la evolución del código y la tercera versión corresponde con el programa final.
